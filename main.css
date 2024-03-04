@@ -1,0 +1,23 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+.navbar-brand {
+    font-family: "Montserrat Subrayada", sans-serif;
+    font-style: italic;
+}
+
+.navbar {
+    background-color: #286afa;
+}
+
+.nav .nav-link.active {
+    background-color: white;
+    color: #286afa;
+}
+
+.nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover {
+    color: white;
+}
