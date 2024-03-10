@@ -25,3 +25,16 @@ body {
 .navbar-toggler {
     background-color: #8fe2f3;
 }
+
+.section-tittle {
+    font-family: "Raleway", sans-serif;
+    font-style: italic;
+}
+
+.section-tittle span {
+    color: #286afa;
+}
+
+#about-the-school{
+    background-color: #e4edff;
+}
