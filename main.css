@@ -26,15 +26,19 @@ body {
     background-color: #8fe2f3;
 }
 
-.section-tittle {
+.section-title {
     font-family: "Raleway", sans-serif;
     font-style: italic;
 }
 
-.section-tittle span {
+#about-the-school {
+    background-color: #e4edff;
+}
+
+.colored-text {
     color: #286afa;
 }
 
-#about-the-school{
-    background-color: #e4edff;
+p {
+    text-align: justify;
 }
