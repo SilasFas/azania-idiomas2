@@ -11,12 +11,12 @@ body {
     background-color: #286afa;
 }
 
-.nav .nav-link.active {
+header .nav .nav-link.active {
     background-color: white;
     color: #286afa;
 }
 
-.nav .nav-link,
+header .nav .nav-link,
 .navbar-brand,
 .navbar-brand:hover {
     color: white;
