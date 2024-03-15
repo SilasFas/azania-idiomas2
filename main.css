@@ -7,7 +7,8 @@ body {
     font-style: italic;
 }
 
-.navbar {
+.navbar,
+#contactus button {
     background-color: #286afa;
 }
 
@@ -18,7 +19,8 @@ header .nav .nav-link.active {
 
 header .nav .nav-link,
 .navbar-brand,
-.navbar-brand:hover {
+.navbar-brand:hover,
+#contactus button {
     color: white;
 }
 
@@ -42,4 +44,13 @@ header .nav .nav-link,
 
 p {
     text-align: justify;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
 }
